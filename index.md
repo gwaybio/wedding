@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: article
 permalink: /
-title: "Latest Posts"
+title: "We're Getting Married!"
+image:
+  feature: gj.gif
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+We can write markdown here too.
