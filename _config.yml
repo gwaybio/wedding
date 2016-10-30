@@ -1,11 +1,10 @@
 # Site wide configuration
 
-title: "Jess and Greg's Wedding"
+title: "Jessica King and Gregory Way"
 description: "Jessica King and Gregory Way are getting married on June 16th 2017"
 logo: wedding_logo.gif
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-#url: jessandgregwedding.com
 feed:
   path: atom.xml
 
