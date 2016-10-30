@@ -1,6 +1,6 @@
 ---
-layout: artile
-title: Where's Myskin
+layout: article
+title: Where's Myshkin
 permalink: /myshkin/
 image:
   feature: wheresmyshkin.gif
