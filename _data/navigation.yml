@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "Learn about us."
+  image:
+
+- title: Details
+  url: /details/
+  excerpt: "Learn about the events."
+  image:
+
+- title: Things to Do
+  url: /todo/
+  excerpt: "Find out a couple of things that there is to do here."
+
+- title: Where's Myskin?
+  url: /myshkin/
+  excerpt: "Our cat likes to hide, see if you can find him."
