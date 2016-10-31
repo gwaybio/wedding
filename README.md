@@ -1,9 +1,8 @@
 # Our Wedding Website
 
 Jessica King and Gregory Way are getting married in
-San Francisco on June 16-17th 2017 in San Francisco,
-California. This GitHub pages repository builds and
-serves the website.
+on June 16-17th 2017 in San Francisco, California.
+This GitHub pages repository builds and serves the website.
 
 To view our website, visit [jessandgregwedding.com]("http://www.jessandgregwedding.com").
 
