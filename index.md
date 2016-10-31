@@ -6,4 +6,7 @@ image:
   feature: gj.gif
 ---
 
-We can write markdown here too.
+Jessica King and Gregory Way are getting married on June 16th, 2017
+in San Francisco, California. They will be celebrating the day with
+family but will have a reception for close friends and family the
+next day.
