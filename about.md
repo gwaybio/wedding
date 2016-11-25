@@ -11,11 +11,11 @@ enrolled in a Master's program at Saint Joseph's
 University. They were studying biology but it was
 _really_ all about chemistry from the start. They
 enjoyed walking together in the
-[Wissahickon Park](https://www.fow.org) and touring
+[Wissahickon Park](http://www.fow.org) and touring
 breweries all around PA. Our favorites include
-[PBC](https://www.philadelphiabrewing.com),
-[Yards](https://www.yardsbrewing.com), and
-[Troegs](https://www.troegs.com). 
+[PBC](http://www.philadelphiabrewing.com),
+[Yards](http://www.yardsbrewing.com), and
+[Troegs](http://www.troegs.com). 
 
 ## Act II.
 
@@ -39,7 +39,7 @@ prison.
 Greg accepted an offer from Dartmouth College and
 enrolled in a computational genetics program in
 the Summer of 2014. They both quit their jobs and
-moved to the beautiful [Upper Valley](https://www.uppervalleynhvt.com).
+moved to the beautiful [Upper Valley](http://www.uppervalleynhvt.com).
 Jess found work as a Lab Manager in the Geisel School of
 Medicine (literally 
 [named after Dr. Seuss](https://www.npr.org/sections/health-shots/2012/04/05/150074545/seuss-medical-school-seuss-medical-school))
@@ -47,9 +47,9 @@ while Greg took courses and searched for a lab to join.
 They reveled in the Vermont and New Hampshire beer scene,
 which included regular trips to
 [Harpoon](https://www.harpoonbrewery.com/breweries/windsor) and
-[Long Trail](https://www.longtrail.com) and the occasional treat of
+[Long Trail](http://www.longtrail.com) and the occasional treat of
 [The Alchemist](https://www.alchemistbeer.com),
-[Hill Farmstead](https://www.hillfarmstead.com), and 
+[Hill Farmstead](http://www.hillfarmstead.com), and 
 [Smuttynose](https://www.smuttynose.com). There was also
 plenty of cross country skiing and hiking of the many
 mountains in the area.
@@ -57,7 +57,7 @@ mountains in the area.
 ## Act IV.
 
 Unfortunately, the Dartmouth medical school was having
-[financial difficulties](https://www.dartblog.com/data/2015/09/012240.php),
+[financial difficulties](http://www.dartblog.com/data/2015/09/012240.php),
 which caused several prominent faculty members to transfer
 to different institutions. Greg had recently joined one of those
 labs and, after several long discussions, Greg and Jess
@@ -69,7 +69,7 @@ a scientist in the Department of Pathology studying
 neurodegenerative diseases.  They discovered new
 breweries this time around including
 [Dock Street](https://www.dockstreetbeer.com) and
-[Crime & Punishment](https://www.crimeandpunishmentbrewingco.com).
+[Crime & Punishment](http://www.crimeandpunishmentbrewingco.com).
 They also got a cat (named Myshkin), got
 engaged, and Jess started a Computer Science Masters
 at Penn while working full time along the way.
