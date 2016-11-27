@@ -3,7 +3,7 @@ layout: article
 permalink: /
 title: "We're Getting Married!"
 image:
-  feature: gj.gif
+  feature: wedding_welcome.jpg 
 ---
 
 Jessica King and Gregory Way are getting married on June 16th, 2017
