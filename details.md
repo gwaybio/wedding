@@ -17,7 +17,8 @@ at 5:30pm.
 We will be having a small ceremony on this date from 1-2pm
 at the San Francisco City Hall. Unfortunately, the space
 is small and we will only be inviting close family to
-this event.
+this event. *Note* - All will need to pass through a metal
+detector to enter City Hall. Please plan accordingly.
 
 Informally, we will be going to a bar to be named later
 in San Francisco at 9pm. We invite all of our guests to
