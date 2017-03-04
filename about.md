@@ -2,16 +2,16 @@
 layout: article
 title: About Us - Our Story Together
 permalink: /about/
+image:
+  feature: green_dress.jpg
 ---
 
 ## Act I.
 
-![green_dress](images/green_dress.jpg)
-
 Jess and Greg met in 2012 while they were both
 enrolled in a Master's program at Saint Joseph's
 University. They were studying biology but it was
-_really_ all about chemistry from the start. They
+really all about chemistry from the start. They
 enjoyed walking together in the
 [Wissahickon Park](http://www.fow.org) and touring
 breweries all around PA. Our favorites include
@@ -29,8 +29,8 @@ brutal. Nevertheless, when Greg finished in 2014,
 and after a short two week stint working as an
 overqualified shelf stocker at Office Depot, he
 began working at the same company with Jess. With a
-carpool, the commute _instantly_ became less
-dreadful. They even read the entire Dostoevsky novel
+carpool, the commute became less dreadful. They even
+read the entire Dostoevsky novel
 [The House of the Dead](https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)) 
 aloud that summer while sitting in traffic. At
 least their time was better than rotting in a Siberian
