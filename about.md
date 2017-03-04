@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Act I.
 
-![green_dress](images/green_dress)
+![green_dress](images/green_dress.jpg)
 
 Jess and Greg met in 2012 while they were both
 enrolled in a Master's program at Saint Joseph's
