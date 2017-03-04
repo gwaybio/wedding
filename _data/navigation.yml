@@ -5,6 +5,10 @@
   excerpt: "Here's some stuff about us."
   image:
 
+- title: Accommodations
+  url: /accommodations/
+  excerpt: "Hotel and shuttle information."
+
 - title: Details
   url: /details/
   excerpt: "Learn about the events."
