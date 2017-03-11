@@ -21,5 +21,5 @@ this event. *Note* - All will need to pass through a metal
 detector to enter City Hall. Please plan accordingly.
 
 Informally, we will be going to a bar to be named later
-in San Francisco at 9pm. We invite all of our guests to
+near Danville at 9pm. We invite all of our guests to
 attend if they would like. 
