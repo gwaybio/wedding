@@ -14,5 +14,7 @@ for more details.
 
 *We kindly request no box gifts please*
 
+*A registry has been setup at [honeyfund](https://www.honeyfund.com/wedding/jessandgregwedding)*
+
 [Event Map](https://drive.google.com/open?id=1y24iMH7-a8BmJxlAGs3YmpnVR34&usp=sharing)
 
